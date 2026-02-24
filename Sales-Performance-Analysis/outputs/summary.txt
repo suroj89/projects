@@ -1,0 +1,6 @@
+SALES PERFORMANCE SUMMARY
+Generated on: 2026-02-24 10:24:44.390289
+
+Total Sales: 880200.0
+Total Profit: 147020.0
+Average Profit Margin: 19.12%
